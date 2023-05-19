@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:tier_list/image_search.dart';
-import 'package:tier_list/list.dart';
+import 'package:tier_list/API/image_search.dart';
+import 'package:tier_list/Constants/list.dart';
 import 'package:tier_list/Widgets/selection_card.dart';
-import 'package:tier_list/tier_list.dart';
+import 'package:tier_list/Widgets/tier_list.dart';
 
 void main(List<String> args) {
   return runApp(const MyApp());

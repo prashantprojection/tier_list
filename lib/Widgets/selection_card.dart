@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:tier_list/Widgets/glass_morphism.dart';
-import 'package:tier_list/list.dart';
+import 'package:tier_list/Constants/list.dart';
 
 selectionCard(BuildContext context, Image image) {
   return showDialog(
